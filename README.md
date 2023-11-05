@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevDamhi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...css and javescript
+- 🌱 I’m currently learning ...css and javascript
 - 💞️ I’m looking to collaborate on ... js and react,redux js
 - 📫 How to reach me ...my email. adeyemidaviddamilola@gmail.com
 
